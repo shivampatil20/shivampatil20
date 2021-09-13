@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋,I am Shivam Patil,
+I'm a student of MCA and a Front-End devloper by passion and life-time learner by choice.
 
 <!--
-**shivampatil20/shivampatil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shivampatil20/shivampatil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...(email) shivpatil535@gmail.com
 - 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...
--->
+
