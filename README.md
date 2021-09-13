@@ -1,5 +1,5 @@
-### Hi there 👋,I am Shivam Patil,
-I'm a student of MCA and a Front-End devloper by passion and life-time learner by choice.
+### Hi there 👋, I am Shivam Patil,
+I'm a student of MCA and a Front-End developer by passion and a lifetime learner by choice.
 
 <!--
 **shivampatil20/shivampatil20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
